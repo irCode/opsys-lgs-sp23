@@ -5,11 +5,11 @@ title: CSE 30341 - Operating Systems Principles
 
 ## CSE 30341 - Operating Systems Principles
 
-- 136 Debartolo Hall, Spring 2023
+- TBC, Spring 2023
 - Adj. Assoc. Prof. Irum Rauf(irauf@nd.edu)
-- Grad TA: Barry Sly-Delgado (bslydelg@nd.edu)
-- Grad TA: Ben Lyons (blyons1@nd.edu)
-- UGrad TA: Mark Schermerhorn (mscherm2@nd.edu)
+- Grad TA: TBC
+- Grad TA: TBC 
+- UGrad TA: TBC 
 
 ## Office Hours (Starting Jan 17th)
 
