@@ -1,3 +1,3 @@
-# This is h1 heading
+# My index file is this
 ## This is h2 heading
 ### This is h3 heading
