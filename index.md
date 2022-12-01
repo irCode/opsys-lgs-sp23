@@ -6,7 +6,7 @@ title: CSE 30341 - Operating Systems Principles
 ## CSE 30341 - Operating Systems Principles
 
 - TBC, Spring 2023
-- Adj. Assoc. Prof. Irum Rauf(irauf@nd.edu)
+- Adj. Assist. Prof. Irum Rauf(irauf@nd.edu)
 - Grad TA: TBC
 - Grad TA: TBC 
 - UGrad TA: TBC 
