@@ -15,12 +15,12 @@ title: CSE 30341 - Operating Systems Principles
 
 |   | Mon | Tue | Wed | Thu | Fri |
 |---|-----|-----|-----|-----|-----|
-|1-3PM | Prof. Rauf (\*) |     |       | Prof. Thain (\*) | Ben (+) |
-|3-5PM |             | Ben (+) |            |  Mark (+) (3:30) |     |
-|5-7PM |             | Mark (+) | Barry (+) | Barry (+)       |     |
+|9:15-10:30 AM | Asst. Prof. Rauf (\*) |     |   Asst. Prof. Rauf (\*)    |  |  |
+|3-5PM |             |  |            |  |     |
+|5-7PM |             | |  |       |     |
 
-- (\*) in 384C Fitzpatrick
-- (+) in 150B Fitzpatrick (CSE student commons)
+- (\*) in TBC
+- (+) in TBC
 
 ## Quick Links
 
