@@ -11,7 +11,7 @@ title: CSE 30341 - Operating Systems Principles
 - Grad TA: TBC 
 - UGrad TA: TBC 
 
-## Office Hours (Starting Jan 17th)
+## Office Hours (Starting Jan 16th)
 
 |   | Mon | Tue | Wed | Thu | Fri |
 |---|-----|-----|-----|-----|-----|
