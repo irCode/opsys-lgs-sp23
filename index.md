@@ -40,7 +40,6 @@ title: CSE 30341 - Operating Systems Principles
 
 <img align="right" height="192" src="http://github.com/dthain/basekernel/raw/master/screenshot-windows.png"/>
 
-- [Basekernel](http://github.com/dthain/basekernel) (by Prof. Thain)
 - [Minix](https://www.minix3.org)
 - [Plan 9 from Bell Labs](https://9p.io/plan9/)
 - [Linux Kernel](https://www.kernel.org)
