@@ -67,7 +67,7 @@ title: CSE 34341 - Operating Systems Principles
 | 20 Mar- Mon	| [Final Exam Monday 10:30](final) | - | - |
 | 22 Mar- Wed	| [Final Exam Monday 10:30](final) | - | - |
 | 27 Mar - Mon| [Final Exam Monday 10:30](final) | - | - |
-| 29 Mar - Wed| [Final Exam Monday 10:30](final) | - | - |
+| 29 Mar - Wed|  [Final Exam Monday 10:30](final) | - | - |
 | 3 Apr - Mon	| [Final Exam Monday 10:30](final) | - | - |
 | 5 Apr	- Wed	| [Final Exam Monday 10:30](final) | - | - |
 | 10 Apr - Mon	| [Final Exam Monday 10:30](final) | - | - |
