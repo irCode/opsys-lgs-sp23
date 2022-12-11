@@ -16,7 +16,8 @@ title: CSE 34341 - Operating Systems Principles
 |   | Mon | Tue | Wed | Thu | Fri |
 |---|-----|-----|-----|-----|-----|
 |9:15-10:30 AM | Asst. Prof. Rauf (\*) |     |   Asst. Prof. Rauf (\*)    |  |  |
-
+|3-5PM |             |  |            |  |     |
+|5-7PM |             | |  |       |     | 
 
 - (\*) in TBC
 - (+) in TBC
@@ -46,34 +47,22 @@ title: CSE 34341 - Operating Systems Principles
 
 ## Tentative Schedule
 
-|Week|Reading&nbsp;Due Mon&nbsp;11:59PM |Tuesday|Thursday|Due Friday 5PM|
+|Week|Reading&nbsp;Due Mon&nbsp;11:59PM | Monday |Wednesday |Due Friday 5PM|
 |-----|-----|-----|---|---|
-| 16 Jan - Mon | Ch. 1-2 | Overview / [Syllabus](syllabus) | Hardware / [Powers](powers)
-| 18 Jan - Wed	| Ch. 3-6	| Processes	| Processes | [Project 1 Due](project1)
-| 23 Jan - Mon | Ch. 7-11	| Scheduling	| Scheduling	| [Project 2 Due](project2)
-| 25 Jan - Wed	| Ch. 25-29	| Threads	| Locks and Data Structures | [Watch Nova: Fractals](https://www.youtube.com/watch?v=d0Exnv8Ym7s)
-| 30 Jan - Mon | Ch. 30	   | Condition Variables | CV Contd / [Examples](https://github.com/dthain/opsys-sp22/tree/main/examples) | [Homework A Due](homework-scheduling)
-| 1 Feb- Wed	| Ch. 31-34	| Catch Up | Semaphores / [Examples](https://github.com/dthain/opsys-sp22/tree/main/examples) | [Project 3 Due](project3)
-| 6 Feb	 - Mon| Ch. 13-16	| Deadlock	| Memory Overview	| [Homework B Due](homework-sync)
-| 8 Feb	- Wed| --	      | Segmentation | [Midterm Exam](midterm)	|
-| 13 Feb - Mon| - | Spring Break | Spring Break |
-| 15 Feb - Wed| Ch. 17-19	| Paging Mechanisms | TLBs / Performance	| 
-| 20 Feb - Mon| Ch. 20-22	| Multi-Level Paging | Swapping	| [Project 4 Due](project4)
-| 22 Feb - Wed| Ch. 35-37 + 44	| I/O Devices / ([Mouse](https://github.com/dthain/basekernel/blob/master/kernel/mouse.c) / [Disk](https://github.com/dthain/basekernel/blob/master/kernel/ata.c))  | HDD [Datasheet](https://www.seagate.com/www-content/datasheets/pdfs/desktop-hdd-8tbDS1770-9-1603US-en_US.pdf) / SSD [Datasheet](https://www.micron.com/-/media/client/global/documents/products/data-sheet/ssd/m550_m2_2280_ssd.pdf) | 
-| 27 Feb  - Mon	| Ch. 38-39	| RAID	| FS Abstraction | [Project 5 Due](project5)
-| 1 Mar	- Wed| Ch. 40-42	| FS Implementation	| FS Structure |
-| 6 Mar - Mon| Ch. 53-55	| Security | Security |
-| 8 Mar - Wed  | - | [Project 6 Due](project6) | No Class |
-| 20 Mar- Mon	| [Final Exam Monday 10:30](final) | - | - |
-| 22 Mar- Wed	| [Final Exam Monday 10:30](final) | - | - |
-| 27 Mar - Mon| [Final Exam Monday 10:30](final) | - | - |
-| 29 Mar - Wed|  [Final Exam Monday 10:30](final) | - | - |
-| 3 Apr - Mon	| [Final Exam Monday 10:30](final) | - | - |
-| 5 Apr	- Wed	| [Final Exam Monday 10:30](final) | - | - |
-| 10 Apr - Mon	| [Final Exam Monday 10:30](final) | - | - |
-| 12 Apr	- Wed	| [Final Exam Monday 10:30](final) | - | - |
-| 17 Apr - Mon	| [Final Exam Monday 10:30](final) | - | - |
-| 19 Apr	- Wed	| [Final Exam Monday 10:30](final) | - | - |
-| 21 Apr - Fri	| [Final Exam Monday 10:30](final) | - | - |
-| 24 Apr - Mon	| [Final Exam Monday 10:30](final) | - | - |
-| 26 Apr - Wed | [Final Exam Monday 10:30](final) | - | - |
+| 16 Jan	| Ch. 1-2 | Overview / [Syllabus](syllabus) | Hardware / [Powers](powers)
+| 23 Jan	| Ch. 3-6	| Processes	| Processes | [Project 1 Due](project1)
+| 30 Jan	| Ch. 7-11	| Scheduling	| Scheduling	| [Project 2 Due](project2)
+| 6 Feb	| Ch. 25-29	| Threads	| Locks and Data Structures | [Watch Nova: Fractals](https://www.youtube.com/watch?v=d0Exnv8Ym7s)
+| 13 Feb		| Ch. 30	   | Condition Variables | CV Contd / [Examples](https://github.com/dthain/opsys-sp22/tree/main/examples) | [Homework A Due](homework-scheduling)
+| 20 Feb	| Ch. 31-34	| Catch Up | Semaphores / [Examples](https://github.com/dthain/opsys-sp22/tree/main/examples) | [Project 3 Due](project3)
+| 27 Feb	| Ch. 13-16	| Deadlock	| Memory Overview	| [Homework B Due](homework-sync)
+| 6 Mar	| --	      | Segmentation | [Midterm Exam](midterm)	|
+| 13 Mar		| - | Spring Break | Spring Break |
+| 20 Mar	| Ch. 17-19	| Paging Mechanisms | TLBs / Performance	| 
+| 27 Apr	| Ch. 20-22	| Multi-Level Paging | Swapping	| [Project 4 Due](project4)
+| 3 Apr	| Ch. 35-37 + 44	| I/O Devices / ([Mouse](https://github.com/dthain/basekernel/blob/master/kernel/mouse.c) / [Disk](https://github.com/dthain/basekernel/blob/master/kernel/ata.c))  | HDD [Datasheet](https://www.seagate.com/www-content/datasheets/pdfs/desktop-hdd-8tbDS1770-9-1603US-en_US.pdf) / SSD [Datasheet](https://www.micron.com/-/media/client/global/documents/products/data-sheet/ssd/m550_m2_2280_ssd.pdf) | 
+| 10 Apr 	| Ch. 38-39	| RAID	| FS Abstraction | [Project 5 Due](project5)
+| 17 Apr	| Ch. 40-42	| FS Implementation	| FS Structure |
+| 24 Apr	| Ch. 53-55	| Security | Security |
+| 1 May        | - | [Project 6 Due](project6) | No Class |
+| 2 May		| [Final Exam Monday 10:30](final) | - | - |
