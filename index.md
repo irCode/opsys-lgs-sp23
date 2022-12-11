@@ -3,7 +3,7 @@ layout: default
 title: CSE 34341 - Operating Systems Principles
 ---
 
-## CSE 30341 - Operating Systems Principles
+## CSE 34341 - Operating Systems Principles
 
 - TBC, Spring 2023
 - Adj. Assist. Prof. Irum Rauf(irauf@nd.edu)
