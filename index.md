@@ -16,8 +16,8 @@ title: CSE 34341 - Operating Systems Principles
 |   | Mon | Tue | Wed | Thu | Fri |
 |---|-----|-----|-----|-----|-----|
 |9:15-10:30 AM | Asst. Prof. Rauf (\*) |     |   Asst. Prof. Rauf (\*)    |  |  |
-<! ---|3-5PM |             |  |            |  |     |---!>
-<! ---|5-7PM |             | |  |       |     | ---!>
+|3-5PM |             |  |            |  |     |
+|5-7PM |             | |  |       |     | 
 
 - (\*) in TBC
 - (+) in TBC
