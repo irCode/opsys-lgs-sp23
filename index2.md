@@ -64,5 +64,5 @@ title: CSE 34341 - Operating Systems Principles
 | 4 Apr 	| Ch. 38-39	| RAID	| FS Abstraction | [Project 5 Due](project5)
 | 11 Apr	| Ch. 40-42	| FS Implementation	| FS Structure |
 | 18 Apr	| Ch. 53-55	| Security | Security |
-| 25 Apr        | - | [Project 6 Due](project6) | No Class |
-| 2 May		| [Final Exam Monday 10:30](final) | - | - |
+| 25 Apr        | - | [Project 6 Due](project6) | [Final Exam Monday 10:30](final) |
+| 1 May		| [Final Exam Monday 10:30](final) | - | - |
