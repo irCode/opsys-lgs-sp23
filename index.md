@@ -62,18 +62,18 @@ title: CSE 34341 - Operating Systems Principles
 | 22 Feb - Wed	| Ch. 35-37 + 44	| I/O Devices / ([Mouse](https://github.com/dthain/basekernel/blob/master/kernel/mouse.c) / [Disk](https://github.com/dthain/basekernel/blob/master/kernel/ata.c))  | HDD [Datasheet](https://www.seagate.com/www-content/datasheets/pdfs/desktop-hdd-8tbDS1770-9-1603US-en_US.pdf) / SSD [Datasheet](https://www.micron.com/-/media/client/global/documents/products/data-sheet/ssd/m550_m2_2280_ssd.pdf) | 
 | 27 Feb  - Mon	| Ch. 38-39	| RAID	| FS Abstraction | [Project 5 Due](project5)
 | 1 Mar	- Wed| Ch. 40-42	| FS Implementation	| FS Structure |
-| 6 Mar	 - Mon| Ch. 53-55	| Security | Security |
-| 8 Mar   - Wed  | - | [Project 6 Due](project6) | No Class |
+| 6 Mar - Mon| Ch. 53-55	| Security | Security |
+| 8 Mar - Wed  | - | [Project 6 Due](project6) | No Class |
 | 20 Mar - Mon		| [Final Exam Monday 10:30](final) | - | - |
 | 22 Mar	- Wed	| [Final Exam Monday 10:30](final) | - | - |
-| 27 Mar - Mon		| [Final Exam Monday 10:30](final) | - | - |
-| 29 Mar	- Wed	| [Final Exam Monday 10:30](final) | - | - |
-| 3 Apr  - Mon		| [Final Exam Monday 10:30](final) | - | - |
+| 27 Mar - Mon| [Final Exam Monday 10:30](final) | - | - |
+| 29 Mar - Wed| [Final Exam Monday 10:30](final) | - | - |
+| 3 Apr - Mon	| [Final Exam Monday 10:30](final) | - | - |
 | 5 Apr	- Wed	| [Final Exam Monday 10:30](final) | - | - |
-| 10 Apr - Mon		| [Final Exam Monday 10:30](final) | - | - |
+| 10 Apr - Mon	| [Final Exam Monday 10:30](final) | - | - |
 | 12 Apr	- Wed	| [Final Exam Monday 10:30](final) | - | - |
-| 17 Apr - Mon		| [Final Exam Monday 10:30](final) | - | - |
+| 17 Apr - Mon	| [Final Exam Monday 10:30](final) | - | - |
 | 19 Apr	- Wed	| [Final Exam Monday 10:30](final) | - | - |
-| 21 Apr - Fri		| [Final Exam Monday 10:30](final) | - | - |
-| 24 Apr - Mon		| [Final Exam Monday 10:30](final) | - | - |
-| 26 Apr - Wed		| [Final Exam Monday 10:30](final) | - | - |
+| 21 Apr - Fri	| [Final Exam Monday 10:30](final) | - | - |
+| 24 Apr - Mon	| [Final Exam Monday 10:30](final) | - | - |
+| 26 Apr - Wed | [Final Exam Monday 10:30](final) | - | - |
