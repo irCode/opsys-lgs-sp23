@@ -64,7 +64,7 @@ title: CSE 34341 - Operating Systems Principles
 | 1 Mar	- Wed| Ch. 40-42	| FS Implementation	| FS Structure |
 | 6 Mar - Mon| Ch. 53-55	| Security | Security |
 | 8 Mar - Wed  | - | [Project 6 Due](project6) | No Class |
-| 20 Mar - Mon | [Final Exam Monday 10:30](final) | - | - |
+|| 20 Mar- Mon	| [Final Exam Monday 10:30](final) | - | - |
 | 22 Mar- Wed	| [Final Exam Monday 10:30](final) | - | - |
 | 27 Mar - Mon| [Final Exam Monday 10:30](final) | - | - |
 | 29 Mar - Wed| [Final Exam Monday 10:30](final) | - | - |
