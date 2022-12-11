@@ -59,7 +59,7 @@ title: CSE 34341 - Operating Systems Principles
 | 13 Feb - Mon| - | Spring Break | Spring Break |
 | 15 Feb - Wed| Ch. 17-19	| Paging Mechanisms | TLBs / Performance	| 
 | 20 Feb - Mon| Ch. 20-22	| Multi-Level Paging | Swapping	| [Project 4 Due](project4)
-| 22 Feb - Wed| Ch. 35-37 + 44	| I/O Devices / ([Mouse](https://github.com/dthain/basekernel/blob/master/kernel/mouse.c) / [Disk](https://github.com/dthain/basekernel/blob/master/kernel/ata.c))  | HDD [Datasheet](https://www.seagate.com/www-content/datasheets/pdfs/desktop-hdd-8tbDS1770-9-1603US-en_US.pdf) / SSD [Datasheet](https://www.micron.com/-/media/client/global/documents/products/data-sheet/ssd/m550_m2_2280_ssd.pdf) | 
+| 27 Feb - Wed| Ch. 35-37 + 44	| I/O Devices / ([Mouse](https://github.com/dthain/basekernel/blob/master/kernel/mouse.c) / [Disk](https://github.com/dthain/basekernel/blob/master/kernel/ata.c))  | HDD [Datasheet](https://www.seagate.com/www-content/datasheets/pdfs/desktop-hdd-8tbDS1770-9-1603US-en_US.pdf) / SSD [Datasheet](https://www.micron.com/-/media/client/global/documents/products/data-sheet/ssd/m550_m2_2280_ssd.pdf) | 
 | 27 Feb  - Mon	| Ch. 38-39	| RAID	| FS Abstraction | [Project 5 Due](project5)
 | 1 Mar	- Wed| Ch. 40-42	| FS Implementation	| FS Structure |
 | 6 Mar - Mon| Ch. 53-55	| Security | Security |
