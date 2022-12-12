@@ -64,4 +64,4 @@ title: CSE 34341 - Operating Systems Principles
 |13 | 10 Apr	| Ch. 35 - 37, 44	| I/O Devices  | HDD | | 
 |14 | 17 Apr 	| Ch. 38-40	| RAID	| File Systems (Files, Directories, FS Implementation) |  |
 |15 | 24 Apr	| Ch. 41, 42, 45| File Systems (FFS) | Consistency a& Integrity | |
-|16  | 1 May   | | Review | Final Exam Monday 10:30](final) |  |
+|16  | 1 May   | | Review | Final Exam (final) |  |
