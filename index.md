@@ -56,16 +56,6 @@ title: CSE 34341 - Operating Systems Principles
 |3 | 30 Jan	| Ch. 7-11| Scheduling	                    | Scheduling	                | - |
 
 
- **Unit 02 - Concurrency with Thread**   
- 
-|No. |Week  |  Reading&nbsp;Due Sun&nbsp;11:59PM | Monday |Wednesday |Due Friday 5PM|
-|---|-------|------------------------------------|--------|-----------|------------|
-|4 | 6 Feb	 | Ch. 25-27	| Events| Threads|.  |
-|5 | 13 Feb		| Ch. 28-30	   | Locks | Condition Variables |   |
-|6 | 20 Feb	| Ch. 31	| Semaphores   | Structures |  |
-|7 | 27 Feb	| Ch. 32-34	| Patterns	| Race Condition Blocks	|  |
-|8 | 6 Mar	| --	      | Review | [Midterm Exam](midterm)	|  |
-
 
  **Unit 02 - Concurrency with Thread**  
  
