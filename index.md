@@ -53,8 +53,10 @@ title: CSE 34341 - Operating Systems Principles
 |3-5PM |             |  |            |  |     |
 |5-7PM |             | |  |       |     | 
 
-|   | Mon | Tue | Wed | Thu | Fri |
-|---|-----|-----|-----|-----|-----|
+ **Unit 01 - System Calls and Processes**  
+ 
+|No. |Week  |  Reading&nbsp;Due Sun&nbsp;11:59PM | Monday |Wednesday |Due Friday 5PM|
+|---|-------|------------------------------------|--------|-----------|------------|
 |9:15-10:30 AM | Asst. Prof. Rauf (\*) |     |   Asst. Prof. Rauf (\*)    |  |  |
 |3-5PM |             |  |            |  |     |
 |5-7PM |             | |  |       |     | 
