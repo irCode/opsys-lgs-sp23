@@ -48,14 +48,14 @@ title: CSE 34341 - Operating Systems Principles
 ## Tentative Schedule
 
  **Unit 01 - System Calls and Processes**  
-|No. |Week|Reading&nbsp;Due Mon&nbsp;11:59PM | Monday |Wednesday |Due Friday 5PM|
+|No. |Week|Reading&nbsp;Due Sun&nbsp;11:59PM | Monday |Wednesday |Due Friday 5PM|
 |-----|-----|-----|---|---|----|
 |1 | 16 Jan	| Ch. 1-2 | Overview / [Syllabus](syllabus) | Hardware / [Powers](powers) | - |
 |2 | 23 Jan	| Ch. 3-6	| System Calls	| Processes | |
 |3 | 30 Jan	| Ch. 7-11	| Scheduling	| Scheduling	| - |
 
  **Unit 02 - Concurrency with Thread**  
-|No. |Week|Reading&nbsp;Due Mon&nbsp;11:59PM | Monday |Wednesday |Due Friday 5PM|
+|No. |Week|Reading&nbsp;Due Sun&nbsp;11:59PM | Monday |Wednesday |Due Friday 5PM|
 |-----|-----|-----|---|---|----|
 |4 | 6 Feb	| Ch. 25-27	| Events| Threads| |
 |5 | 13 Feb		| Ch. 28-30	   | Locks | Condition Variables |  |
@@ -64,7 +64,7 @@ title: CSE 34341 - Operating Systems Principles
 |8 | 6 Mar	| --	      | Review | [Midterm Exam](midterm)	| |
 
  **Unit 03 - Virtual Memory**  
-|No. |Week|Reading&nbsp;Due Mon&nbsp;11:59PM | Monday |Wednesday |Due Friday 5PM|
+|No. |Week|Reading&nbsp;Due Sun&nbsp;11:59PM | Monday |Wednesday |Due Friday 5PM|
 |-----|-----|-----|---|---|----|
 |9 | 13 Mar		| - | Spring Break | Spring Break |
 |10 | 20 Mar	| Ch. 12-16	| Virtual Memory | Segmentation |	| 
@@ -72,7 +72,7 @@ title: CSE 34341 - Operating Systems Principles
 |12 | 3 Apr	| Ch. 20 - 24	| Multi-Level Paging | Swapping	| |
 
  **Unit 04 - File Systems**  
-|No. |Week|Reading&nbsp;Due Mon&nbsp;11:59PM | Monday |Wednesday |Due Friday 5PM|
+|No. |Week|Reading&nbsp;Due Sun&nbsp;11:59PM | Monday |Wednesday |Due Friday 5PM|
 |-----|-----|-----|---|---|----|
 |13 | 10 Apr	| Ch. 35 - 37, 44	| I/O Devices  | HDD | | 
 |14 | 17 Apr 	| Ch. 38-40	| RAID	| File Systems (Files, Directories, FS Implementation) |  |
