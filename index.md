@@ -49,7 +49,7 @@ title: CSE 34341 - Operating Systems Principles
 
 |No. |Week|Reading&nbsp;Due Mon&nbsp;11:59PM | Monday |Wednesday |Due Friday 5PM|
 |-----|-----|-----|---|---|----|
-| **Unit 01 - System Calls and Processes**                                                |
+| > | **Unit 01 - System Calls and Processes**  |||||                                             |
 |1 | 16 Jan	| Ch. 1-2 | Overview / [Syllabus](syllabus) | Hardware / [Powers](powers) | - |
 |2 | 23 Jan	| Ch. 3-6	| System Calls	| Processes | |
 |3 | 30 Jan	| Ch. 7-11	| Scheduling	| Scheduling	| - |
