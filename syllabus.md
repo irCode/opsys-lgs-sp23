@@ -1,4 +1,6 @@
- CSE 34341 Operating Systems Principles
+---
+layout: default
+title: CSE 34341 Operating Systems Principles
 
 Spring 2023, Asst. Prof. Irum Rauf (irauf@nd.edu), University of Notre Dame
 
@@ -50,7 +52,7 @@ Canvas will be used for distributing grades and class recordings:
 
 - Required: Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau, **Operating Systems in Three Easy Pieces**, Arpaci-Dusseau Books, 2019. [http://ostep.org](http://ostep.org)
 
-- - Recommended:  Modern Operating Systems, 4th edition, Andrew S. Tanenbaum, and Herbert Bos, Pearson, ISBN: 9780133591620
+-  Recommended:  Modern Operating Systems, 4th edition, Andrew S. Tanenbaum, and Herbert Bos, Pearson, ISBN: 9780133591620
 
 - Suggested Reference: Kernighan and Ritchie, The C Programming Language, Prentice-Hall, 1988.
 
