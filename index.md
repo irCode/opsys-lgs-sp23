@@ -16,8 +16,7 @@ title: CSE 34341 - Operating Systems Principles
 |   | Mon | Tue | Wed | Thu | Fri |
 |---|-----|-----|-----|-----|-----|
 |9:15-10:30 AM | Asst. Prof. Rauf (\*) |     |   Asst. Prof. Rauf (\*)    |  |  |
-|3-5PM |             |  |            |  |     |
-|5-7PM |             | |  |       |     | 
+
 
 - (\*) in TBC
 - (+) in TBC
@@ -25,15 +24,13 @@ title: CSE 34341 - Operating Systems Principles
 ## Quick Links
 
 - [Syllabus](syllabus)
-- [Submit Reading Notes on Canvas](https://canvas.nd.edu/courses/33829/assignments)
 - [General Instructions for Assignments](general)
-- [Recorded Lectures on Panopto](https://canvas.nd.edu/courses/33829/external_tools/76)
-- [Gradebook on Canvas](https://canvas.nd.edu/courses/33829/gradebook)
-- [Office Hours Zoom](https://notredame.zoom.us/j/98135137451)
+
 
 ## Online Textbook
 
 - Required: [Operating Systems in Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP), Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau, Arpaci-Dusseau Books, March, 2018 (Version 1.00)
+- Recommended:  Modern Operating Systems, 4th edition, Andrew S. Tanenbaum, and Herbert Bos, Pearson, ISBN: 9780133591620
 - Suggested: The C Programming Language, Brian Kernighan and Dennis Ritchie, Prentice Hall, 1988.
 
 ## Some Open Source OS Kernels
@@ -49,7 +46,7 @@ title: CSE 34341 - Operating Systems Principles
 
  **Unit 01 - System Calls and Processes**  
  
-|No. |Week  |  Reading&nbsp;Due Sun&nbsp;11:59PM | Monday |Wednesday |Due Friday 5PM|
+|No. |Week  |  Reading&nbsp;Due Sun&nbsp;11:59PM | Monday |Wednesday |Due Friday 12 Midnight|
 |---|-------|------------------------------------|--------|-----------|------------|
 |1 | 16 Jan	| Ch. 1-2 | Overview / [Syllabus](syllabus) | Hardware / [Powers](powers) | - |
 |2 | 23 Jan	| Ch. 3-6	| System Calls	                  | Processes                   | -   |
@@ -59,7 +56,7 @@ title: CSE 34341 - Operating Systems Principles
 
  **Unit 02 - Concurrency with Thread**  
  
-|No. |Week  |  Reading&nbsp;Due Sun&nbsp;11:59PM | Monday |Wednesday |Due Friday 5PM|
+|No. |Week  |  Reading&nbsp;Due Sun&nbsp;11:59PM | Monday |Wednesday |Due Friday 12 Midnight|
 |---|-------|------------------------------------|--------|-----------|------------|
 |4 | 6 Feb	| Ch. 25-27	| Events| Threads| |
 |5 | 13 Feb		| Ch. 28-30	   | Locks | Condition Variables |  |
@@ -69,7 +66,7 @@ title: CSE 34341 - Operating Systems Principles
 
  **Unit 03 - Virtual Memory**  
  
-|No. |Week  |  Reading&nbsp;Due Sun&nbsp;11:59PM | Monday |Wednesday |Due Friday 5PM|
+|No. |Week  |  Reading&nbsp;Due Sun&nbsp;11:59PM | Monday |Wednesday |Due Friday 12 Midnight|
 |---|-------|------------------------------------|--------|-----------|------------|
 |9 | 13 Mar		| - | Spring Break | Spring Break | |
 |10 | 20 Mar	| Ch. 12-16	| Virtual Memory | Segmentation |	 | 
@@ -78,7 +75,7 @@ title: CSE 34341 - Operating Systems Principles
 
  **Unit 04 - File Systems**  
  
-|No. |Week  |  Reading&nbsp;Due Sun&nbsp;11:59PM | Monday |Wednesday |Due Friday 5PM|
+|No. |Week  |  Reading&nbsp;Due Sun&nbsp;11:59PM | Monday |Wednesday |Due Friday 12 Midnight|
 |---|-------|------------------------------------|--------|-----------|------------|
 |13 | 10 Apr	| Ch. 35 - 37, 44	| I/O Devices  | HDD | | 
 |14 | 17 Apr 	| Ch. 38-40	| RAID	| File Systems (Files, Directories, FS Implementation) |  |
