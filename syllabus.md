@@ -63,13 +63,13 @@ Please refrain from using your laptops for non-class activities, since this tend
 Standard London Undergraduate Program attendance policies apply. Students are expected to be present at every class. In case of illness, please contact the Undergraduate Program Office straightaway. Unexcused absences will result in academic penalties on a scale from a deduction in your class participation grade, to a partial letter grade drop in your final grade for the class (e.g. an A would become an A minus, an A minus would become a B plus).
 
 ## Grading
-|  Assessment | Weightage  | 
-|---|---|
-| Quizzes – 7  | 15%  (1.5 *10)  | 
-|Homework - 2 |15%     (7.5 *2)| 
-| Projects – 3 | 30% (10 * 3)  |  
-|  Midterm – 1 | 20%  | 
-|   Final - 1|  20% |  
+|  Assessment| # of assessments | Weightage  | 
+|---|---|---|
+| Quizzes | 7  | 15%  (1.5 *10)  | 
+|Homework | 2 |15%     (7.5 *2)| 
+| Projects |3 | 30% (10 * 3)  |  
+|  Midterm | 1 | 20%  | 
+|   Final | 1|  20% |  
 
 The course grade will be based on six programming projects, one homework, a midterm, and a final exam. For each assignment, a numeric grade will be assigned. Grades will be made available in Canvas. Projects and homeworks are 60% of the course grade, chapter notes are 10%, and the midterm and final exam are each 15%. At the end of the semester, number grades will be converted to letter grades: 90/80/70 are the usual cutoffs for A/B/C grades, respectively. The instructor will exercise discretion on borderline grades, or to account for a trend of increasing/decreasing grades throughout the semester.
 
