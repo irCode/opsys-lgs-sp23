@@ -1,5 +1,6 @@
 ---
 layout: default
+
 title: CSE 34341 Operating Systems Principles
 
 Spring 2023, Asst. Prof. Irum Rauf (irauf@nd.edu), University of Notre Dame
@@ -10,6 +11,8 @@ Adj. Ass. Prof. Irum Rauf
 Email: irauf@nd.edu
 
 I will be checking my emails intermittently, but please expect a delay of 24  hours to 48 hours
+
+Weekly consultation hours will be on Zoom and will be finalized after the first class. To make use of these hours, please send your queries 24 hours in advance so that they can be addressed fully. 
 
 
 ## Overview
@@ -45,8 +48,13 @@ The course web page contains the schedule, assignments, and other critical infor
 [https://ircode.github.io/opsys-lgs-sp23/](https://ircode.github.io/opsys-lgs-sp23/)
 
 Canvas will be used for distributing grades and class recordings:
+- **Link To Be Updated**
 
-[https://canvas.nd.edu/courses/33829](https://canvas.nd.edu/courses/33829) - **To Be Updated**
+For Quizes:
+
+- **Link To Be Updated**
+- 
+
 
 ## Textbooks
 
@@ -58,28 +66,46 @@ Canvas will be used for distributing grades and class recordings:
 
 
 ## Attendance Policy
-To succeed in this class, you should attend and actively participate in all the scheduled lectures. You will get the most out of class if you have done the required readings in advance and actively take notes during class. 
+To succeed in this class, you should attend and actively participate in all the scheduled lectures. You will get the most out of class if you  actively take notes during class. 
 
 Please refrain from using your laptops for non-class activities, since this tends to distract others as well as yourself. Let’s use this time to work together instead.
 
 Standard London Undergraduate Program attendance policies apply. Students are expected to be present at every class. In case of illness, please contact the Undergraduate Program Office straightaway. Unexcused absences will result in academic penalties on a scale from a deduction in your class participation grade, to a partial letter grade drop in your final grade for the class (e.g. an A would become an A minus, an A minus would become a B plus).
 
+## Assignments: 
+-	Assignments will be submitted as a shared Git repository. You should confirm functionality prior to the submission deadline.
+-	Inquiries about graded assignments/exams must be made within one week after the assignments are returned via Sakai.
+-	Late assignments are not generally accepted.  However, each student may use **one late pass** for one quiz/ project during the semester.  To exercise this option, please email the instructor prior to the deadline.  The late pass will give you an extension of one week on the assignment.  (Cannot be used for the final assignment.)
+-		By default, late assignments will be reduced by 25% per day (e.g. three days late has a maximum score of 25%). However, please reach out in the event of a late submission as soon as possible to discuss any issues. Being proactive when possible rather than reactive generally will result in a satisfactory outcome.
+
+## Quizzes
+-	Quizzes are due at 10 PM on Fridays and are released on Thursday at 12 PM.
+-	Quizzes will be made available on Sakai
+
+
+
+
 ## Grading
 
 | Assessment  | # of assessments |  Weightage | 
 |------------|--------------|-----------------|
-| Quizzes | 7  | 15%  (1.5 *10)  | 
+| Quizzes | 10  | 15%  (1.5 *10)  | 
 | Homework | 2  | 15%     (7.5 * 2) | 
 | Projects | 3 | 30% (10 * 3)  |  
 |  Midterm | 1 | 20%  | 
 |   Final | 1 |  20% |  
 
-The course grade will be based on six programming projects, one homework, a midterm, and a final exam. For each assignment, a numeric grade will be assigned. Grades will be made available in Canvas. Projects and homeworks are 60% of the course grade, chapter notes are 10%, and the midterm and final exam are each 15%. At the end of the semester, number grades will be converted to letter grades: 90/80/70 are the usual cutoffs for A/B/C grades, respectively. The instructor will exercise discretion on borderline grades, or to account for a trend of increasing/decreasing grades throughout the semester.
+The grade range for the class is as follows:
+
+A >= 94, A- >= 90
+B+ >= 87, B >= 84, B- >= 80
+C+ >= 77, C >= 74, C- >= 70
+D >= 60
+F < 60
+
 
 If you believe an error has been made in grading an item, please bring it to the attention within seven days of receiving it. Factual and clerical errors will of course be cheerfully corrected. After seven days, graded items are final and will not be revisited.
 
-Late assignments are not generally accepted.  However, each student may use **one late pass** for one quiz/ project during the semester.  To exercise this option,
-please email the instructor prior to the deadline.  The late pass will give you an extension of one week on the assignment.  (Cannot be used for the final assignment.)
 
 ## Support for Student Mental Health at the London Global Gateway
 
