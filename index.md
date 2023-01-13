@@ -5,21 +5,19 @@ title: CSE 34341 - Operating Systems Principles
 
 ## CSE 34341 - Operating Systems Principles
 
-- TBC, Spring 2023
+- Spring 2023
 - Adj. Assist. Prof. Irum Rauf(irauf@nd.edu)
-- Grad TA: TBC
-- Grad TA: TBC 
-- UGrad TA: TBC 
 
-## Office Hours (Starting Jan 16th)
+
+## Class Timings (Starting Jan 16th)
 
 |   | Mon | Tue | Wed | Thu | Fri |
 |---|-----|-----|-----|-----|-----|
 |9:15-10:30 AM | Asst. Prof. Rauf (\*) |     |   Asst. Prof. Rauf (\*)    |  |  |
 
-
-- (\*) in TBC
-- (+) in TBC
+# Consultation Hours
+TBC
+Weekly consultation hours will be on Zoom and will be finalized after the first class. To make use of these hours, please send your queries 24 hours in advance so that they can be addressed fully. 
 
 ## Quick Links
 
@@ -33,14 +31,6 @@ title: CSE 34341 - Operating Systems Principles
 - Recommended:  Modern Operating Systems, 4th edition, Andrew S. Tanenbaum, and Herbert Bos, Pearson, ISBN: 9780133591620
 - Suggested: The C Programming Language, Brian Kernighan and Dennis Ritchie, Prentice Hall, 1988.
 
-## Some Open Source OS Kernels
-
-<img align="right" height="192" src="http://github.com/dthain/basekernel/raw/master/screenshot-windows.png"/>
-
-- [Minix](https://www.minix3.org)
-- [Plan 9 from Bell Labs](https://9p.io/plan9/)
-- [Linux Kernel](https://www.kernel.org)
-- [NetBSD](https://www.netbsd.org)
 
 ## Tentative Schedule
 
