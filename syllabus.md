@@ -79,7 +79,7 @@ Standard London Undergraduate Program attendance policies apply. Students are ex
 -	Assignments will be submitted as a shared Git repository. You should confirm functionality prior to the submission deadline.
 -	Inquiries about graded assignments/exams must be made within one week after the assignments are returned via Sakai.
 -	Late assignments are not generally accepted.  However, each student may use **one late pass** for one quiz/ project during the semester.  To exercise this option, please email the instructor prior to the deadline.  The late pass will give you an extension of one week on the assignment.  (Cannot be used for the final assignment.)
--		By default, late assignments will be reduced by 25% per day (e.g. three days late has a maximum score of 25%). However, please reach out in the event of a late submission as soon as possible to discuss any issues. Being proactive when possible rather than reactive generally will result in a satisfactory outcome.
+
 
 ## Quizzes
 -	Quizzes are due at 10 PM on Fridays and are released on Thursday at 12 PM.
