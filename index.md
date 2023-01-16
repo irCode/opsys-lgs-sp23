@@ -36,7 +36,7 @@ Weekly consultation hours will be on Zoom and will be finalized after the first 
 
  **Unit 01 - System Calls and Processes**  
  
-|No. |Week  |  Reading&nbsp;Due Sun&nbsp;11:59PM | Monday |Wednesday |Due Friday 12 Midnight|
+|No. |Week  |  | Monday |Wednesday |Due Friday 12 Midnight|
 |---|-------|------------------------------------|--------|-----------|------------|
 |1 | 16 Jan	| Ch. 1-2 | Overview / [Syllabus](syllabus) | Hardware / [Powers](powers) | - |
 |2 | 23 Jan	| Ch. 3-6	| System Calls	                  | Processes                   | -   |
@@ -46,7 +46,7 @@ Weekly consultation hours will be on Zoom and will be finalized after the first 
 
  **Unit 02 - Concurrency with Thread**  
  
-|No. |Week  |  Reading&nbsp;Due Sun&nbsp;11:59PM | Monday |Wednesday |Due Friday 12 Midnight|
+|No. |Week  |   | Monday |Wednesday |Due Friday 12 Midnight|
 |---|-------|------------------------------------|--------|-----------|------------|
 |4 | 6 Feb	| Ch. 25-27	| Events| Threads| |
 |5 | 13 Feb		| Ch. 28-30	   | Locks | Condition Variables |  |
@@ -56,7 +56,7 @@ Weekly consultation hours will be on Zoom and will be finalized after the first 
 
  **Unit 03 - Virtual Memory**  
  
-|No. |Week  |  Reading&nbsp;Due Sun&nbsp;11:59PM | Monday |Wednesday |Due Friday 12 Midnight|
+|No. |Week  |  | Monday |Wednesday |Due Friday 12 Midnight|
 |---|-------|------------------------------------|--------|-----------|------------|
 |9 | 13 Mar		| - | Spring Break | Spring Break | |
 |10 | 20 Mar	| Ch. 12-16	| Virtual Memory | Segmentation |	 | 
@@ -65,7 +65,7 @@ Weekly consultation hours will be on Zoom and will be finalized after the first 
 
  **Unit 04 - File Systems**  
  
-|No. |Week  |  Reading&nbsp;Due Sun&nbsp;11:59PM | Monday |Wednesday |Due Friday 12 Midnight|
+|No. |Week  |   | Monday |Wednesday |Due Friday 12 Midnight|
 |---|-------|------------------------------------|--------|-----------|------------|
 |13 | 10 Apr	| Ch. 35 - 37, 44	| I/O Devices  | HDD | | 
 |14 | 17 Apr 	| Ch. 38-40	| RAID	| File Systems (Files, Directories, FS Implementation) |  |
