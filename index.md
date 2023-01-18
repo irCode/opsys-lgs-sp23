@@ -16,8 +16,8 @@ title: CSE 34341 - Syllabus Operating Systems Principles
 |9:15-10:30 AM | Asst. Prof. Rauf (\*) |     |   Asst. Prof. Rauf (\*)    |  |  |
 
 # Consultation Hours
-|   | Mon |   | |
-|---|-----|-----|-----|-----|-----|
+|   | Mon |   | 
+|---|-----|-----|
 |2:00 PM - 3:00 PM AM | Asst. Prof. Rauf (\*) |  Zoom*   |  
 
 Weekly consultation hours are on Zoom. The room link will be available on Canvas website().
