@@ -15,7 +15,8 @@ Email: irauf@nd.edu
 
 I will be checking my emails intermittently, but please expect a delay of 24  hours to 48 hours
 
-Weekly consultation hours will be on Zoom and will be finalized after the first class. To make use of these hours, please send your queries 24 hours in advance so that they can be addressed fully. 
+Weekly consultation hours will be on Zoom every Monday 2PM to 4PM. To make full use of these hours, please send your queries 24 hours in advance so that they can be addressed fully. 
+Zoom link is on Canvas website of the course.
 
 
 ## Overview
