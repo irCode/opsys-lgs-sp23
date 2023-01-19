@@ -32,6 +32,7 @@ Weekly consultation hours are on Zoom. The room link will be available on Canvas
 ## Online Textbook
 
 - Required: [Operating Systems in Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP), Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau, Arpaci-Dusseau Books, March, 2018 (Version 1.00)
+- Tanenbaum, A.S. and Bos, H. (2015) Modern Operating Systems, 4th edn. Pearson. ISBN: 9781292061429.
 - Suggested: The C Programming Language, Brian Kernighan and Dennis Ritchie, Prentice Hall, 1988.
 
 
