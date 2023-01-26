@@ -79,8 +79,6 @@ Standard London Undergraduate Program attendance policies apply. Students are ex
 ## Homework/ Projects: 
  - You should submit your homework/ projects in pairs.
 - 	The pairs will be generated at random using a team generator software.
-- 	Each homework and project will have different pair giving you an opportunity to work with different class fellows each time.
-- 	Since the pairs will be generated at random by a software, some group maybe repeated if software suggests so.
 - 	Make an agreement to be respectful and work together to maximize your learning benefit.
 - 	Please ensure to work together and think answer to each question clearly in agreement with each other. 
 - 	Before submitting the assignment/ project, please make sure that both the team members agree with what is written, how it is written and also fully understand what is written.
