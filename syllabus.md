@@ -100,8 +100,8 @@ Standard London Undergraduate Program attendance policies apply. Students are ex
 | Assessment  | # of assessments |  Weightage | 
 |------------|--------------|-----------------|
 | Quizzes | 10  | 15%  (1.5 *10)  | 
-| Homework | 2  | 15%     (7.5 * 2) | 
-| Projects | 3 | 30% (10 * 3)  |  
+| Homework | 3  | 25% (8.3 * 3)  | 
+| Projects | 2 | 20% (10 * 2)  |  
 |  Midterm | 1 | 20%  | 
 |   Final | 1 |  20% |  
 
