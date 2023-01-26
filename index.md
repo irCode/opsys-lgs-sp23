@@ -43,8 +43,8 @@ Weekly consultation hours are on Zoom. The room link will be available on Canvas
 |No. |Week  |  | Monday |Wednesday |Due Date|
 |---|-------|------------------------------------|--------|-----------|------------|
 |1 | 16 Jan	| Ch. 1-2 | Overview / [Syllabus](syllabus) | Structure/ 3-Steps of OS / | - |
-|2 | 23 Jan	| Ch. 3-6	| Processes                  | System Calls	   | Quiz 1( Due Tuesday 24th January 10 PM), Quiz 2 ( Due 20th Jan, 10 PM)   |
-|3 | 30 Jan	| Ch. 7-11| Scheduling	  [Powers](powers)                  | Scheduling	                | Homework 1 - Due Saturday 10 PM)|
+|2 | 23 Jan	| Ch. 3-6	| Processes                  | System Calls	   | Quiz 1, Quiz 2    |
+|3 | 30 Jan	| Ch. 7-11| Scheduling	  [Powers](powers)                  | Scheduling	                | Homework 1 |
 
 
 
