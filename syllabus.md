@@ -76,15 +76,21 @@ Please refrain from using your laptops for non-class activities, since this tend
 
 Standard London Undergraduate Program attendance policies apply. Students are expected to be present at every class. In case of illness, please contact the Undergraduate Program Office straightaway. Unexcused absences will result in academic penalties on a scale from a deduction in your class participation grade, to a partial letter grade drop in your final grade for the class (e.g. an A would become an A minus, an A minus would become a B plus).
 
-## Assignments: 
--	Assignments will be submitted as a shared Git repository. You should confirm functionality prior to the submission deadline.
--	Inquiries about graded assignments/exams must be made within one week after the assignments are returned via Sakai.
--	Late assignments are not generally accepted.  However, each student may use **one late pass** for one quiz/ project during the semester.  To exercise this option, please email the instructor prior to the deadline.  The late pass will give you an extension of one week on the assignment.  (Cannot be used for the final assignment.)
+## Homework/ Projects: 
+ - You should submit your homework/ projects in pairs.
+- 	The pairs will be generated at random using a team generator software.
+- 	Each homework and project will have different pair giving you an opportunity to work with different class fellows each time.
+- 	Since the pairs will be generated at random by a software, some group maybe repeated if software suggests so.
+- 	Make an agreement to be respectful and work together to maximize your learning benefit.
+- 	Please ensure to work together and think answer to each question clearly in agreement with each other. 
+- 	Before submitting the assignment/ project, please make sure that both the team members agree with what is written, how it is written and also fully understand what is written.
+- 	Homework/ Projects will be released and announce on Canvas.
+
 
 
 ## Quizzes
--	Quizzes are due at 10 PM on Fridays and are released on Thursday at 12 PM.
--	Quizzes will be made available on Sakai
+-	Quizzes are due at 11:59  PM on Sundays and are released on Thursday.
+-	Quizzes will be made available on Canvas
 
 
 
