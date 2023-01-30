@@ -3,7 +3,7 @@
 
 First, read the [general instructions](general) for assignments. Make sure you are using the correct compiler on the correct machine.
 
-This project is a warm up assignment for the course. The basic concept is very simple: to write a program that copies files and directories from one place to another. However, the main challenge of engineering operating systems is dealing with errors and unexpected conditions. Thus, the main focus of this assignment will be on the correct handling of errors. The goals of this project are:
+In this project write a program that copies files and directories from one place to another. However, the main challenge of engineering operating systems is dealing with errors and unexpected conditions. Thus, the main focus of this assignment will be on the correct handling of errors. The goals of this project are:
 
 - To review your knowledge of basic C programming.
 - To learn the most essential Unix system calls.
@@ -214,27 +214,27 @@ Your grade will be based on:
 
 ## Turning In
 
-This assignment is due on Friday, January 21st at 5:00PM.
+This project is due on Sunday, 19th February, 2023 at 23:59.
 
-Please turn in only the source code files filecopy.c and treecopy.c and a Makefile that builds both executables. Do not submit executables or other files, since we will build your code from source.
+Please turn in only the source code files filecopy.c and treecopy.c and a Makefile that builds both executables. Do not submit executables or other files, since I will build your code from source.
 
 Your dropbox is mounted on the student machines at this location:
 
 ```
-/escnfs/courses/sp22-cse-30341.01/dropbox/YOURNETID
+/escnfs/courses/cse-34341-02/dropbox/YOURNETID
 ```
 
 To submit your files, make a directory called project1 in your dropbox, and copy your files there:
 
 ```
-mkdir /escnfs/courses/sp22-cse-30341.01/dropbox/YOURNETID/project1
-cp filecopy.c /escnfs/courses/sp22-cse-30341.01/dropbox/YOURNETID/project1
-cp treecopy.c /escnfs/courses/sp22-cse-30341.01/dropbox/YOURNETID/project1
-cp Makefile /escnfs/courses/sp22-cse-30341.01/dropbox/YOURNETID/project1
+mkdir /escnfs/courses/cse-34341-02/dropbox/YOURNETID/project1
+cp filecopy.c /escnfs/courses/cse-34341-02/dropbox/YOURNETID/project1
+cp treecopy.c /escnfs/courses/cse-34341-02/dropbox/YOURNETID/project1
+cp Makefile /escnfs/courses/cse-34341-02/dropbox/YOURNETID/project1
 ```
 
 And double check that the right items are present:
 
 ```
-ls -la /escnfs/courses/sp22-cse-30341.01/dropbox/YOURNETID/project1
+ls -la /escnfs/courses/cse-34341-02/dropbox/YOURNETID/project1
 ```
