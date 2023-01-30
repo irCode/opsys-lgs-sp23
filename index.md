@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CSE 34341 - Syllabus Operating Systems Principles 
+title: CSE 34341 -  Operating Systems Principles 
 ---
 
 ## CSE 34341 
@@ -40,7 +40,7 @@ Weekly consultation hours are on Zoom. The room link will be available on Canvas
 
  **Unit 01 - System Calls and Processes**  
  
-|No. |Week  |  | Monday |Wednesday |Due Date|
+|No. |Week  |  | Monday |Wednesday |Due Date (Sunday 23:59) |
 |---|-------|------------------------------------|--------|-----------|------------|
 |1 | 16 Jan	| Ch. 1-2 | Overview / [Syllabus](syllabus) | Structure/ 3-Steps of OS / | - |
 |2 | 23 Jan	| Ch. 3-6	| Processes                  | System Calls	   | Quiz 1, Quiz 2    |
@@ -50,7 +50,7 @@ Weekly consultation hours are on Zoom. The room link will be available on Canvas
 
  **Unit 02 - Concurrency with Thread**  
  
-|No. |Week  |   | Monday |Wednesday |Due Date|
+|No. |Week  |   | Monday |Wednesday |Due Date (Sunday 23:59) |
 |---|-------|------------------------------------|--------|-----------|------------|
 |4 | 6 Feb	| Ch. 25-27	| Events| Threads| Quiz 3 |
 |5 | 13 Feb		| Ch. 28-30	   | Locks | Condition Variables | Project 1 |
@@ -60,7 +60,7 @@ Weekly consultation hours are on Zoom. The room link will be available on Canvas
 
  **Unit 03 - Virtual Memory**  
  
-|No. |Week  |  | Monday |Wednesday |Due Date|
+|No. |Week  |  | Monday |Wednesday |Due Date (Sunday 23:59) |
 |---|-------|------------------------------------|--------|-----------|------------|
 |9 | 13 Mar		| - | Spring Break | Spring Break |  |
 |10 | 20 Mar	| Ch. 12-16	| Virtual Memory | Segmentation |	 Quiz 6 | 
@@ -69,7 +69,7 @@ Weekly consultation hours are on Zoom. The room link will be available on Canvas
 
  **Unit 04 - File Systems**  
  
-|No. |Week  |   | Monday |Wednesday |Due Date|
+|No. |Week  |   | Monday |Wednesday | Due Date (Sunday 23:59)  |
 |---|-------|------------------------------------|--------|-----------|------------|
 |13 | 10 Apr	| Ch. 35 - 37, 44	| I/O Devices  | HDD | Quiz 8 | 
 |14 | 17 Apr 	| Ch. 38-40	| RAID	| File Systems (Files, Directories, FS Implementation) | Project 2 |
