@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CSE 34341 - Operating Systems Principles
+title: CSE 34341 - Syllabus Operating Systems Principles
 ---
 
 ## CSE 34341 - Syllabus 
