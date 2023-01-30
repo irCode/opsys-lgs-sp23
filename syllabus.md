@@ -5,6 +5,8 @@ title: CSE 34341 - Syllabus Operating Systems Principles
 
 ## CSE 34341 - Syllabus 
 
+[Main Page](index)
+
 - Spring 2023
 - Adj. Assist. Prof. Irum Rauf(irauf@nd.edu)
 
