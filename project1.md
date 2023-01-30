@@ -234,7 +234,7 @@ cp Makefile /escnfs/courses/cse-34341-02/dropbox/YOURNETID/project1
 ```
 
 And double check that the right items are present:
-
+ 
 ```
 ls -la /escnfs/courses/cse-34341-02/dropbox/YOURNETID/project1
 ```
