@@ -53,7 +53,7 @@ Weekly consultation hours are on Zoom. The room link will be available on Canvas
 |No. |Week  |   | Monday |Wednesday |Due Date (Sunday 23:59) |
 |---|-------|------------------------------------|--------|-----------|------------|
 |4 | 6 Feb	| Ch. 25-27	| Events| Threads| Quiz 3 |
-|5 | 13 Feb		| Ch. 28-30	   | Locks | Condition Variables | Project 1 |
+|5 | 13 Feb		| Ch. 28-30	   | Locks | Condition Variables | [Project 1](project1) |
 |6 | 20 Feb	| Ch. 31	| Semaphores   | Structures |Quiz 4 |
 |7 | 27 Feb	| Ch. 32-34	| Patterns	| Race Condition Blocks	| Homework 2|
 |8 | 6 Mar	| --	      | Review | [Midterm Exam](midterm)	| Quiz 5 |
