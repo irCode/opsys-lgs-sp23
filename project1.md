@@ -221,20 +221,20 @@ Please turn in only the source code files filecopy.c and treecopy.c and a Makefi
 Your dropbox is mounted on the student machines at this location:
 
 ```
-/escnfs/courses/cse-34341-02/dropbox/YOURNETID
+/esc-courses/sp23-cse-34341.02/dropbo/YOURNETID
 ```
 
 To submit your files, make a directory called project1 in your dropbox, and copy your files there:
 
 ```
-mkdir /escnfs/courses/cse-34341-02/dropbox/YOURNETID/project1
-cp filecopy.c /escnfs/courses/cse-34341-02/dropbox/YOURNETID/project1
-cp treecopy.c /escnfs/courses/cse-34341-02/dropbox/YOURNETID/project1
-cp Makefile /escnfs/courses/cse-34341-02/dropbox/YOURNETID/project1
+mkdir /esc-courses/sp23-cse-34341.02/dropbo/YOURNETID/project1
+cp filecopy.c /esc-courses/sp23-cse-34341.02/dropbo/YOURNETID/project1
+cp treecopy.c /esc-courses/sp23-cse-34341.02/dropbo/YOURNETID/project1
+cp Makefile /esc-courses/sp23-cse-34341.02/dropbo/YOURNETID/project1
 ```
 
 And double check that the right items are present:
  
 ```
-ls -la /escnfs/courses/cse-34341-02/dropbox/YOURNETID/project1
+ls -la /escnfs/courses/sp23-cse-34341.02/dropbox/YOURNETID/project1
 ```
