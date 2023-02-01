@@ -44,7 +44,7 @@ Weekly consultation hours are on Zoom. The room link will be available on Canvas
 |---|-------|------------------------------------|--------|-----------|------------|
 |1 | 16 Jan	| Ch. 1-2 | Overview / [Syllabus](syllabus) | Structure/ 3-Steps of OS / | - |
 |2 | 23 Jan	| Ch. 3-6	| Processes                  | System Calls	   | Quiz 1, Quiz 2    |
-|3 | 30 Jan	| Ch. 7-11| Scheduling	  [Powers](powers)                | Scheduling	                | Homework 1 |
+|3 | 30 Jan	| Ch. 7-9| Scheduling	  [Powers](powers)                | Scheduling	                | Homework 1 |
 
 
 
