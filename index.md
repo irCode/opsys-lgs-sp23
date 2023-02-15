@@ -44,7 +44,7 @@ Weekly consultation hours are on Zoom. The room link will be available on Canvas
 |---|-------|------------------------------------|--------|-----------|------------|
 |1 | 16 Jan	| Ch. 1-2 | Overview / [Syllabus](syllabus) | Structure/ 3-Steps of OS / | - |
 |2 | 23 Jan	| Ch. 3-6	| Processes                  | System Calls	   | Quiz 1, Quiz 2    |
-|3 | 30 Jan	| Ch. 7-9| Scheduling	  [Powers](powers)                | Scheduling	                | Homework 1 |
+|3 | 30 Jan	| Ch. 7-9| Scheduling	                 | Scheduling	                | Homework 1 |
 
 
  **Unit 02 - Virtual Memory**  
@@ -52,7 +52,7 @@ Weekly consultation hours are on Zoom. The room link will be available on Canvas
 |No. |Week  |  | Monday |Wednesday |Due Date (Sunday 23:59) |
 |---|-------|------------------------------------|--------|-----------|------------|
 |4 | 6 Feb	|  Ch. 12-16	| Virtual Memory | Segmentation |	 Quiz 3 | 
-|5 | 13 Feb	| Ch. 17-19	| Free-Space management | Paging | |	 [Project 1](project1) |
+|5 | 13 Feb	| Ch. 17-19	| Free-Space management | Paging  [Powers](powers) | |	 [Project 1](project1) |
 |6 | 20 Feb	| Ch. 20 - 24	| Multi-Level Paging | Swapping	| 	Quiz 4 |
 |7 | 27 Feb	| Ch. 25-27	| Events| Threads	| Homework 2|
 |8 | 6 Mar	|-	      | Review | [Midterm Exam](midterm)	| Quiz 5 |
