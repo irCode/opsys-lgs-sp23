@@ -54,7 +54,7 @@ Weekly consultation hours are on Zoom. The room link will be available on Canvas
 |4 | 6 Feb	|  Ch. 12-16	| Virtual Memory | Segmentation |	 Quiz 3 | 
 |5 | 13 Feb	| Ch. 17-19	| Free-Space management | Paging  [Powers](powers) | |	 [Project 1](project1) |
 |6 | 20 Feb	| Ch. 20 - 24	| Multi-Level Paging | Swapping	| 	Quiz 4 |
-|7 | 27 Feb	| Ch. 25-27	| Events| Threads	| Homework 2|
+|7 | 27 Feb	| Ch. 25-27	| Threads| ThreadAPI	| Homework 2|
 |8 | 6 Mar	|-	      | Review | [Midterm Exam](midterm)	| Quiz 5 |
 
 
@@ -64,8 +64,8 @@ Weekly consultation hours are on Zoom. The room link will be available on Canvas
 |---|-------|------------------------------------|--------|-----------|------------|
 |9 | 13 Mar		| - | Spring Break | Spring Break |  |
 |10 | 20 Mar	| Ch. 28-30	   | Locks | Condition Variables  |	 Quiz 6 | 
-|11 | 27 Mar	| Ch. 31	| Semaphores   | Structures |	Homework 3 | 
-|12 | 3 Apr	| Ch. 32-34	| Patterns	| Race Condition Blocks	|  Quiz 7|
+|11 | 27 Mar	| Ch. 31	| Semaphores   | Structures |	Quiz 7 | 
+|12 | 3 Apr	| Ch. 32-34	| Patterns	| Race Condition Blocks	|  Homework 3|
 
  **Unit 04 - File Systems**  
  
